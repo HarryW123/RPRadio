@@ -1,0 +1,16 @@
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\obj\Debug\RPRadio.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\RPRadio.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\RPRadio.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Assembly-CSharp.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Rocket.API.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Rocket.Core.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Rocket.Unturned.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\UnityEngine.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\bin\Debug\UnityEngine.CrashLog.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\obj\Debug\RPRadio.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\RPRadio\RPRadio\obj\Debug\RPRadio.pdb
